@@ -63,4 +63,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </p>
 
 <h3 align="left">
-    • Special thanks to Yukki team https://github.com/TeamYukki && Yukki music bot https://github.com/TeamYukki/YukkiMusicBot
+   • Special thanks to
+</h3>
+   • Yukki team https://github.com/TeamYukki
+   • Yukki music bot https://github.com/TeamYukki/YukkiMusicBot
