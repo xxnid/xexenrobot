@@ -1,5 +1,5 @@
 <h2 align="center">
-    ── 𝘅𝗲𝘅𝗲𝗻 ✘ 𝗿𝗼𝗯𝗼𝘁 ──
+    𝘅𝗲𝘅𝗲𝗻 ✘ 𝗿𝗼𝗯𝗼𝘁 🇮🇩
 </h2>
 
 <p align="center">
@@ -16,12 +16,14 @@
 
 <h3 align="left">
     • Deploy on heroku
+
 </h3>
 
 <p align="left"><a href="https://dashboard.heroku.com/new?template=https://github.com/xxnid/xexenrobot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="left">
     • Deploy local on vps
+
 </h3>
 
 - Get your [Necessary Variables](https://github.com/xxnid/xexenrobot/blob/master/sample.env)
@@ -52,16 +54,16 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 - For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
 
 
-<h3 align="center">
-    ─ HELPER ─
+<h3 align="left">
+    • Helper
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/DevilsHeavenMF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/xexenid"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-<p align="center">
-<a href="https://telegram.me/FallenAssociation"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<p align="left">
+<a href="https://telegram.me/xexenid"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-- <b> _Special thanks to [Yukki team](https://github.com/TeamYukki) ғᴏʀ [Yukki music bot](https://github.com/TeamYukki/YukkiMusicBot)_ </b>
+- <b> Special thanks to [Yukki team](https://github.com/TeamYukki) ғᴏʀ [Yukki music bot](https://github.com/TeamYukki/YukkiMusicBot)_ </b>
