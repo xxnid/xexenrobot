@@ -1,5 +1,5 @@
-<h2 align="center">
-    𝘅𝗲𝘅𝗲𝗻 ✘ 𝗿𝗼𝗯𝗼𝘁 🇮🇩
+<h2 align="left">
+   • 𝘅𝗲𝘅𝗲𝗻 ✘ 𝗿𝗼𝗯𝗼𝘁
 </h2>
 
 <p align="center">
@@ -58,12 +58,9 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
     • Helper
 </h3>
 
-<p align="left">
-<a href="https://telegram.me/Areademus"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<p align="center">
+<a href="https://telegram.me/Areademus"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a><a href="https://telegram.me/Areademus"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-<p align="left">
-<a href="https://telegram.me/Areademus"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
-</p>
-
-- <b> Special thanks to [Yukki team](https://github.com/TeamYukki) ғᴏʀ [Yukki music bot](https://github.com/TeamYukki/YukkiMusicBot)_ </b>
+<h3 align="left">
+    • Special thanks to [Yukki team](https://github.com/TeamYukki) ғᴏʀ [Yukki music bot](https://github.com/TeamYukki/YukkiMusicBot)_ </b>
