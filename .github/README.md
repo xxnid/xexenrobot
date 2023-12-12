@@ -14,17 +14,14 @@
 <a href="https://github.com/xxnid/xexenrobot/commits/xxnid"> <img src="https://img.shields.io/github/last-commit/xxnid/xexenrobot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-<p align="center">
-</p>
-
-<h3 align="center">
-    ─ Deploy on heroku ─
+<h3 align="left">
+    • Deploy on heroku
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/xxnid/xexenrobot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="left"><a href="https://dashboard.heroku.com/new?template=https://github.com/xxnid/xexenrobot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-<h3 align="center">
-    ─ Deploy local on vps ─
+<h3 align="left">
+    • Deploy local on vps
 </h3>
 
 - Get your [Necessary Variables](https://github.com/xxnid/xexenrobot/blob/master/sample.env)
