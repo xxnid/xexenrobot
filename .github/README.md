@@ -59,8 +59,8 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/Areademus"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a><a href="https://telegram.me/Areademus"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Areademus"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>ㅤ<a href="https://telegram.me/Areademus"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <h3 align="left">
-    • Special thanks to [Yukki team](https://github.com/TeamYukki) ғᴏʀ [Yukki music bot](https://github.com/TeamYukki/YukkiMusicBot)_ </b>
+    • Special thanks to Yukki team https://github.com/TeamYukki && Yukki music bot https://github.com/TeamYukki/YukkiMusicBot
